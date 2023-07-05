@@ -4,3 +4,6 @@ Demo for github intro video
 
 ## Subheader
 Watch tutorial on youtube!
+
+## Local develpment
+1. Open index.html in your browser.
